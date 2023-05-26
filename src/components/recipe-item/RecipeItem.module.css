@@ -6,3 +6,7 @@
     margin-bottom: 5px;
   }
 }
+
+.item img {
+  border-radius: 5px;
+}
